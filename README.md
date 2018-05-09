@@ -1,2 +1,2 @@
 # CSC-330-Object-Oriented-Software-Design
-Large-scale software design issues, object-oriented design paradigms, encapsulation, polymorphism, inheritance, reusability, and specifics of an object-oriented language and associated development tools. Students will be required to implement a substantial and well-engineered project using an object-oriented language.
+A course based on large-scale software design issues, object-oriented design paradigms, encapsulation, polymorphism, inheritance, reusability, and specifics of an object-oriented language and associated development tools. A substantial and well-engineered project was implemented using an object-oriented language. The class also consists of intro-intermediate course work on the object-oriented language, Java.
