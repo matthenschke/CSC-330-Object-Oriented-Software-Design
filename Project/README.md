@@ -1,1 +1,2 @@
  This project is a simple account management system using a GUI that performs methods such as adding, deleting, updating, and displaying credentials for different accounts a user may have such as a Facebook, Twitter, Instagram, etc.. It also forces users to create a personal account for this application which will allow better organization of each of the user's accounts that is stored in the system. All credentials are stored using Sqllite.
+ *Note the only file that is runnable is the Login.java file since you must login in order to access the features of the application
